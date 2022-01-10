@@ -7,4 +7,5 @@ color coded timeblocks, whether past, present or future
 ability to save meetings or other events to local storage
 
 image of deployed application 
+
 deployed application.png
